@@ -1,0 +1,6 @@
+jupyter
+notebook
+numpy
+scipy
+pandas
+plotly==5.13.1
