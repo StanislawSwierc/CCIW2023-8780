@@ -1,0 +1,13 @@
+name: cciw-2023
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - rise
+  - plotly==5.13.1
+  - python-kaleido
+  - pip:
+    - jupyter-contrib-nbextensions
